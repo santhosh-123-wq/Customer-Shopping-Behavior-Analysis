@@ -165,7 +165,11 @@ Certain products consistently perform better across time
 Seasonal trends impact customer purchasing behavior
 
 Customer segmentation helps in targeted marketing strategies
+
 📂 Project Structure
+
 📄 SQL Script → Data extraction and cleaning
+
 📓 Jupyter Notebook → EDA and analysis
+
 📊 Power BI File → Dashboard and visualization
